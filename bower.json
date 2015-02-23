@@ -1,0 +1,20 @@
+{
+  "name": "irap-node",
+  "version": "2.0.0",
+  "authors": [
+    "jayro <jayrore@hotmail.com>"
+  ],
+  "description": "Codificador de IRAP",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}

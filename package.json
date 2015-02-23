@@ -1,0 +1,30 @@
+{
+  "name": "irap-node",
+  "version": "2.0.0",
+  "description": "Programa de codificacion IRAP",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayrore/irap-node"
+  },
+  "author": "jayro salgado alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayrore/irap-node/issues"
+  },
+  "homepage": "https://github.com/jayrore/irap-node",
+  "dependencies": {
+    "express": "^4.12.0",
+    "cookie-parser": "^1.3.4",
+    "passport": "^0.2.1",
+    "morgan": "^1.5.1",
+    "express-session": "^1.10.3",
+    "stylus": "^0.50.0",
+    "body-parser": "^1.12.0",
+    "jade": "^1.9.2",
+    "mongoose": "^3.8.23"
+  }
+}
